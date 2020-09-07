@@ -1,0 +1,13 @@
+{
+  "name": "reminder-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GNZ48-Xie-Leilei-Fan-Club/reminder-bot.git",
+  "author": "Yuhuai Liu <yuhuai@cos.io>",
+  "license": "MIT",
+  "dependencies": {
+    "node-schedule-tz": "^1.2.1-4",
+    "websocket": "^1.0.32",
+    "websocket-as-promised": "^1.0.1"
+  }
+}
